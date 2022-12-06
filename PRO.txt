@@ -1,0 +1,149 @@
+
+How to ride
+Reserve or walk up
+Tap the scooter icon in the Uber app and reserve a nearby electric scooter, or simply walk up to the vehicle to get started.
+
+Start riding
+Scan the QR code on the handlebars to unlock and go. (Or manually enter the 6-digit vehicle identification number.) We encourage you to wear a helmet.
+
+While you ride
+To brake anytime, squeeze the lever down on the left handlebar. To go, press the lever down gently on the right handlebar. Start slow—the scooter has zip.
+
+Park responsibly
+Make sure you park in the correct area shown on the map in your app—and outside any city no-parking areas. Don’t block walkways, ramps, or any areas that need to be used by people with accessibility needs. Consult your city government’s website for rules on where scooters may be operated.
+
+
+
+
+PRICE TO UNLOCK	PRICE PER MINUTE	20 MINUTE RIDE	MONTHLY COMMUTE
+$1	$0.15	$4.00	$160
+$1	$0.23	$5.60	$224
+$1	$0.24	$5.80	$232
+$1	$0.30	$7.00	$280
+
+
+
+
+
+
+NIU Kick Scooter KQi3 Sport White w/ 25-mile Max Range & 17.4mph Max Speed - White
+
+
+
+GoTrax - G4 Commuting Electric Scooter w/ 25mi Max Operating Range & 20 Max Speed - Black
+
+
+
+IU - KQi3 Max Foldable Electric Kick Scooter w/ 40 mi Max Operating Range & 23.6 mph Max Speed - Space Gray
+
+NIU - KQi3 Sport Foldable Electric Kick Scooter w/ 25 mi Max Operating Range & 17.4 mph Max Speed - Blue
+
+
+NIU - KQi3 Pro Foldable Electric Kick Scooter w/ 31 mi Max Operating Range & 20 mph Max Speed - Rosegold
+
+
+Segway - Ninebot D40X KickScooter plus Seat w/23.6 mi Max Operating Range & 18.6 mph Max Speed - Black
+
+
+
+Hover-1 - Journey Foldable Electric Scooter w/16 mi Max Operating Range & 14 mph Max Speed - Yellow
+
+
+Unagi - The Model One Foldable Electric Scooter w/15.5 mi Max Operating Range & 17 mph Max Speed - Sea Salt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="img_nature_wide.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="img_snow_wide.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="img_mountains_wide.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="column">
+    <img src="C:\Users\Venom\Desktop\PROJECT\1.jpg" style="width:20%">
+    <div class ='desc'>NIU Kick Scooter KQi3 Sport White w/ 25-mile Max Range & 17.4mph Max Speed </div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\2.jpg" style="width:20%">
+    <div class ='desc'>GoTrax - G4 Commuting Electric Scooter w/ 25mi Max Operating Range & 20 Max Speed</div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\4.jpg" style="width:20%">
+    <div class ='desc'>IU - KQi3 Max Foldable Electric Kick Scooter w/ 40 mi Max Operating Range & 23.6 mph Max Speed 
+</div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\5.jpg" style="width:20%">
+    <div class ='desc'>NIU - KQi3 Sport Foldable Electric Kick Scooter w/ 25 mi Max Operating Range & 17.4 mph Max Speed </div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\6.jpg" style="width:20%">
+    <div class ='desc'>NIU - KQi3 Pro Foldable Electric Kick Scooter w/ 31 mi Max Operating Range & 20 mph Max Speed </div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\7.jpg" style="width:20%">
+    <div class ='desc'>
+Segway - Ninebot D40X KickScooter plus Seat w/23.6 mi Max Operating Range & 18.6 mph Max Speed</div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\8.jpg" style="width:20%">
+    <div class ='desc'>Hover-1 - Journey Foldable Electric Scooter w/16 mi Max Operating Range & 14 mph Max Speed </div>
+    <img src="C:\Users\Venom\Desktop\PROJECT\9.jpg" style="width:20%">
+    <div class ='desc'>Unagi - The Model One Foldable Electric Scooter w/15.5 mi Max Operating Range & 17 mph Max Speed</div>
+    
+  </div>
